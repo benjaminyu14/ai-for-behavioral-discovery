@@ -1,3 +1,5 @@
+# Benjamin Yu August 2024
+# Given a video, will perform frame subtraction to determine fluctuation in video's lighting
 import cv2
 import numpy as np
 import pandas as pd
